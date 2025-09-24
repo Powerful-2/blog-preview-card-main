@@ -58,5 +58,5 @@ Users should be able to:
 ## Author
 
 - Your Name here: Prince Chinonso
-- Twitter: @Koolprince0
+- Twitter: [@Koolprince0](https://x.com/Koolprince0?t=CL4Is3RZ_BEeRx4j0zBa1g&s=09)
 - Frontend Mentor - [@Powerful-2](https://www.frontendmentenor.io/profile/yourusername)
