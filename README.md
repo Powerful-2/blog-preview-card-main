@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Powerful-2/blog-preview-card-main)
+- Live Site URL: (https://powerful-2.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -39,13 +39,13 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow (if you used this)
+- Mobile-first workflow 
 - Google Fonts
 
 ### What I learned
 
-- I learned how to use a style guide to match a design's colors and fonts exactly.
-- I practiced using Flexbox to center the card on the page and align the author's name and avatar.
+- I learned how to use a style guide to match a design's colours and fonts exactly.
+- I practised using Flexbox to centre the card on the page and align the author's name and avatar.
 - I implemented hover states on the card's title to make it interactive.
 - I learned how to properly link a CSS file and a Google Font to my HTML document.
 
@@ -58,4 +58,4 @@ Users should be able to:
 ## Author
 
 - Your Name here: Prince Chinonso
-- Frontend Mentor - [@yourusername](https://www.frontendmentenor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentenor.io/profile/@Powerful-2)
