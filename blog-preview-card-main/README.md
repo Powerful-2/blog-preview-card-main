@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/Powerful-2/blog-preview-card-main)
+- Live Site URL:(https://powerful-2.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -39,7 +39,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow (if you used this)
+- Mobile-first workflow 
 - Google Fonts
 
 ### What I learned
@@ -58,4 +58,5 @@ Users should be able to:
 ## Author
 
 - Your Name here: Prince Chinonso
-- Frontend Mentor - [@yourusername](https://www.frontendmentenor.io/profile/yourusername)
+- Twitter: @Koolprince0
+- Frontend Mentor - [@Powerful-2](https://www.frontendmentenor.io/profile/yourusername)
